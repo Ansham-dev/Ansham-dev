@@ -22,6 +22,6 @@ Frontend Developer • Open Source Learner • UI Enthusiast
 - 
 ### 📫 Connect with me
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
+  <a href=https://personal-portfolio-psi-ten-65.vercel.app/><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
 </p>
