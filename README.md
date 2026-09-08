@@ -16,10 +16,10 @@ Frontend Developer • Open Source Learner • UI Enthusiast
 ### 🚀 Featured Projects
 
 - **[Portfolio Website](https://github.com/Ansham-dev/YOUR-PORTFOLIO-REPO)** — Personal site with a space/starfield theme and an interactive Three.js solar system
-- **[Zaika 3D](https://github.com/Ansham-dev/YOUR-FOOD-3D-REPO)** — 3D food-ordering app built with Next.js, TypeScript & React Three Fiber
-- **[Zaika (Swiggy Clone)](https://github.com/Ansham-dev/YOUR-SWIGGY-CLONE-REPO)** — Food delivery clone with restaurant listings, cart & checkout
-- **[Ticket](https://github.com/Ansham-dev/YOUR-TICKET-REPO)** — Simple quick-delivery food ordering site inspired by Bistro by Blinkit
-
+-  **[Finance Tracker](https://ansham-dev.github.io/Finance-tracker/)** — Track and manage your personal finances
+- **[Nova Tech Landing Page](https://nova-tech-landing-page-one.vercel.app/)** — Modern landing page design
+- **[Ticket](https://food-ordering-system-gilt-chi.vercel.app/)** — Simple quick-delivery food ordering site inspired by Bistro by Blinkit
+- 
 ### 📫 Connect with me
 <p align="left">
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
