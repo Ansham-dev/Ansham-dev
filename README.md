@@ -14,14 +14,12 @@ Frontend Developer • Open Source Learner • UI Enthusiast
 <br clear="both">
 
 ### 🚀 Featured Projects
-
-- **[Portfolio Website](https://github.com/Ansham-dev/YOUR-PORTFOLIO-REPO)** — Personal site with a space/starfield theme and an interactive Three.js solar system
--  **[Finance Tracker](https://ansham-dev.github.io/Finance-tracker/)** — Track and manage your personal finances
+- **[Portfolio Website](https://personal-portfolio-psi-ten-65.vercel.app/)** — Personal site with a space/starfield theme and an interactive Three.js solar system
+- **[Finance Tracker](https://ansham-dev.github.io/Finance-tracker/)** — Track and manage your personal finances
 - **[Nova Tech Landing Page](https://nova-tech-landing-page-one.vercel.app/)** — Modern landing page design
 - **[Ticket](https://food-ordering-system-gilt-chi.vercel.app/)** — Simple quick-delivery food ordering site inspired by Bistro by Blinkit
-- 
+
 ### 📫 Connect with me
 <p align="left">
-  <a href=https://personal-portfolio-psi-ten-65.vercel.app/><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://personal-portfolio-psi-ten-65.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
 </p>
