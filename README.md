@@ -61,8 +61,8 @@ tooling      Git, GitHub, Vercel for deploys
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-olive-43.vercel.app/api?username=Ansham-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats-two-olive-43.vercel.app/api/top-langs/?username=Ansham-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ansham-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansham-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
 
 <br/>
 
