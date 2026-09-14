@@ -8,11 +8,17 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,php,git,github,vercel&theme=dark" />
 
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ansham-dev&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/Ansham-dev/Ansham-dev?style=for-the-badge&color=58A6FF&label=Last%20Updated" />
+
 </div>
 
 <br/>
 
-## `// currently`
+## `🔧 // currently`
 
 ```diff
 + building interactive, three.js-flavored web experiences
@@ -21,9 +27,11 @@
 - sleep schedule
 ```
 
+> **this week:** polishing this very README, ironically
+
 <br/>
 
-## `// projects`
+## `🎨 // projects`
 
 <table align="center">
 <tr>
@@ -86,7 +94,7 @@ food ordering UI, grocery-app inspired
 
 <br/>
 
-## `// stack notes`
+## `🧰 // stack notes`
 
 ```text
 frontend     Next.js, React, TypeScript — component-first, no shortcuts
@@ -97,7 +105,7 @@ tooling      Git, GitHub, Vercel for deploys
 
 <br/>
 
-## `// languages & tools`
+## `🛠️ // languages & tools`
 
 <div align="center">
 
@@ -124,7 +132,7 @@ tooling      Git, GitHub, Vercel for deploys
 
 <br/>
 
-## `// snake`
+## `🐍 // snake`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ansham-dev/Ansham-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -132,7 +140,7 @@ tooling      Git, GitHub, Vercel for deploys
 
 <br/>
 
-## `// stats`
+## `📊 // stats`
 
 <div align="center">
 
@@ -146,7 +154,17 @@ tooling      Git, GitHub, Vercel for deploys
 
 <br/>
 
-## `// reach me`
+## `💬 // ask me about`
+
+```text
+- three.js scenes that ran smooth at 3am and broke by morning
+- why one div has 4 nested flex containers for "no reason"
+- whether Tailwind classes count as a personality trait
+```
+
+<br/>
+
+## `📬 // reach me`
 
 <div align="center">
 
