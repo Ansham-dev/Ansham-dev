@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Ansham&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20Creative%20Web%20Builder&descAlignY=62&descSize=18&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Ansham&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20Creative%20Web%20Builder&descAlignY=62&descSize=18&descColor=94A3B8" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=building+with+Next.js+%2B+TypeScript;exploring+Three.js+%26+creative+UI;shipping+small+things+often" />
 
@@ -113,4 +113,4 @@ tooling      Git, GitHub, Vercel for deploys
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
