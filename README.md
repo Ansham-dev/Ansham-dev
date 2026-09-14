@@ -6,11 +6,6 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,php,git,github,vercel&theme=dark" />
-
-<br/>
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Ansham-dev&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 <img src="https://img.shields.io/github/last-commit/Ansham-dev/Ansham-dev?style=for-the-badge&color=58A6FF&label=Last%20Updated" />
 
@@ -18,20 +13,65 @@
 
 <br/>
 
-## `🔧 // currently`
+`ansham@github:~$ whoami`
 
-```diff
-+ building interactive, three.js-flavored web experiences
-+ learning TypeScript properly (not just adding `: any` everywhere)
-~ trying to actually finish side projects before starting new ones
-- sleep schedule
-```
+<table>
+<tr>
+<td width="60%">
 
-> **this week:** polishing this very README, ironically
+> Frontend Developer · if it's not smooth at 60fps, it's not done.
+
+</td>
+<td width="40%" align="center">
+
+<img src="PASTE_YOUR_GIF_LINK_HERE" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `🎨 // projects`
+`ansham@github:~$ cat about.txt`
+
+<table>
+<tr>
+<td width="50%">
+
+**🔧 Currently building**
+<br/>
+Interactive, Three.js-flavored web experiences
+
+</td>
+<td width="50%">
+
+**📘 Currently learning**
+<br/>
+TypeScript properly (not just `: any` everywhere)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💬 Ask me about**
+<br/>
+Three.js scenes that ran smooth at 3am and broke by morning
+
+</td>
+<td width="50%">
+
+**⚡ Fun fact**
+<br/>
+Half my commits happen after midnight
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+`ansham@github:~$ ls projects/`
 
 <table align="center">
 <tr>
@@ -94,53 +134,17 @@ food ordering UI, grocery-app inspired
 
 <br/>
 
-## `🧰 // stack notes`
-
-```text
-frontend     Next.js, React, TypeScript — component-first, no shortcuts
-styling      Tailwind, plain CSS when I need full control
-3D / motion  Three.js — still learning shaders, don't judge the cubes
-tooling      Git, GitHub, Vercel for deploys
-```
-
-<br/>
-
-## `🛠️ // languages & tools`
+`ansham@github:~$ ./stack.sh`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,php,git,github,vercel&theme=dark" />
 
 </div>
 
 <br/>
 
-## `🐍 // snake`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ansham-dev/Ansham-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
-## `📊 // stats`
+`ansham@github:~$ ./stats.sh`
 
 <div align="center">
 
@@ -154,17 +158,25 @@ tooling      Git, GitHub, Vercel for deploys
 
 <br/>
 
-## `💬 // ask me about`
+`ansham@github:~$ ./snake.sh`
 
-```text
-- three.js scenes that ran smooth at 3am and broke by morning
-- why one div has 4 nested flex containers for "no reason"
-- whether Tailwind classes count as a personality trait
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ansham-dev/Ansham-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 <br/>
 
-## `📬 // reach me`
+`ansham@github:~$ fortune`
+
+<div align="center">
+
+> "Code it messy first. Make it beautiful later. Ship it either way."
+
+</div>
+
+<br/>
+
+`ansham@github:~$ connect --list`
 
 <div align="center">
 
