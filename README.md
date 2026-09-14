@@ -25,16 +25,64 @@
 
 ## `// projects`
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-| | project | stack |
-|:---:|:---|:---|
-| 🌌 | [**Portfolio**](https://personal-portfolio-psi-ten-65.vercel.app/) — space-themed site with a Three.js solar system | `Three.js` `JS` `CSS` |
-| 💰 | [**Finance Tracker**](https://ansham-dev.github.io/Finance-tracker/) — lightweight income/expense tracker | `JS` `HTML` `CSS` |
-| ⚡ | [**Nova Tech**](https://nova-tech-landing-page-one.vercel.app/) — landing page, heavy on layout & motion | `Three.js` `JS` `CSS` |
-| 🍔 | [**Ticket**](https://food-ordering-system-gilt-chi.vercel.app/) — food ordering UI, grocery-app inspired | `JS` `HTML` `CSS` |
+<a href="https://personal-portfolio-psi-ten-65.vercel.app/">
+<img src="https://image.thum.io/get/width/500/crop/300/https://personal-portfolio-psi-ten-65.vercel.app/" width="100%"/>
+</a>
 
-</div>
+**🌌 Portfolio**
+<br/>
+space-themed site with a Three.js solar system
+<br/>
+`Three.js` `JS` `CSS`
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://ansham-dev.github.io/Finance-tracker/">
+<img src="https://image.thum.io/get/width/500/crop/300/https://ansham-dev.github.io/Finance-tracker/" width="100%"/>
+</a>
+
+**💰 Finance Tracker**
+<br/>
+lightweight income/expense tracker
+<br/>
+`JS` `HTML` `CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://nova-tech-landing-page-one.vercel.app/">
+<img src="https://image.thum.io/get/width/500/crop/300/https://nova-tech-landing-page-one.vercel.app/" width="100%"/>
+</a>
+
+**⚡ Nova Tech**
+<br/>
+landing page, heavy on layout & motion
+<br/>
+`Three.js` `JS` `CSS`
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://food-ordering-system-gilt-chi.vercel.app/">
+<img src="https://image.thum.io/get/width/500/crop/300/https://food-ordering-system-gilt-chi.vercel.app/" width="100%"/>
+</a>
+
+**🍔 Ticket**
+<br/>
+food ordering UI, grocery-app inspired
+<br/>
+`JS` `HTML` `CSS`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
