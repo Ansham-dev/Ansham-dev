@@ -17,14 +17,16 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="100%">
 
-> Frontend Developer · if it's not smooth at 60fps, it's not done.
+### Frontend Developer, building things that move.
 
-</td>
-<td width="40%" align="center">
+I build interactive, Three.js-flavored web experiences — component-first, no shortcuts, obsessed with the details nobody else notices. If it's not smooth at 60fps, it's not done.
 
-<img src="PASTE_YOUR_GIF_LINK_HERE" width="100%"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=58A6FF" />
 
 </td>
 </tr>
@@ -36,30 +38,44 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 **🔧 Currently building**
 <br/>
 Interactive, Three.js-flavored web experiences
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **📘 Currently learning**
 <br/>
 TypeScript properly (not just `: any` everywhere)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 **💬 Ask me about**
 <br/>
 Three.js scenes that ran smooth at 3am and broke by morning
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="33%">
+
+**🎓 Background**
+<br/>
+BCA student, self-teaching the rest
+
+</td>
+<td width="33%">
+
+**🌐 Languages**
+<br/>
+Korean & French — DELF A2 certified
+
+</td>
+<td width="33%">
 
 **⚡ Fun fact**
 <br/>
